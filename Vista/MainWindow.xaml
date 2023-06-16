@@ -150,10 +150,10 @@
                         <Button x:Name="btnMRP" Style="{DynamicResource PopupButtonStyle}"  MouseEnter="btnMRP_MouseEnter" MouseLeave="btnMRP_MouseLeave" Click="btnMRP_Click">
                             <ctls:MenuItem GroupName="MenuItem" IndicatorBrush="{DynamicResource PrimaryBlueColor}" Icon="{DynamicResource mrpbox}" IconWidth="16" Text="MRP" VerticalAlignment="Center"/>
                         </Button>
-                        <Button x:Name="btnPlanAgregado" Style="{DynamicResource PopupButtonStyle}"  MouseEnter="btnPlanAgregado_MouseEnter" MouseLeave="btnPlanAgregado_MouseLeave" Click="btnPlanAgregado_Click">
+                        <!--<Button x:Name="btnPlanAgregado" Style="{DynamicResource PopupButtonStyle}"  MouseEnter="btnPlanAgregado_MouseEnter" MouseLeave="btnPlanAgregado_MouseLeave" Click="btnPlanAgregado_Click">
 
                             <ctls:MenuItem GroupName="MenuItem" IndicatorBrush="{DynamicResource PrimaryBlueColor}" Icon="{DynamicResource calendar}" IconWidth="16" Text="Plan agregado" VerticalAlignment="Center"/>
-                        </Button>
+                        </Button>-->
 
                     </StackPanel>
                     <!-- End: MenuItem -->

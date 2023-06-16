@@ -161,3 +161,167 @@ C:\Users\agsch\OneDrive\Documentos\Material\Masive projects\Software de Producci
 C:\Users\agsch\OneDrive\Documentos\Material\Masive projects\Software de Producción\obj\Debug\Software de Producción.csproj.CopyComplete
 C:\Users\agsch\OneDrive\Documentos\Material\Masive projects\Software de Producción\obj\Debug\Software de Producción.exe
 C:\Users\agsch\OneDrive\Documentos\Material\Masive projects\Software de Producción\obj\Debug\Software de Producción.pdb
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción.csproj.AssemblyReference.cache
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción.csproj.SuggestedBindingRedirects.cache
+C:\Users\agsch\source\repos\Github\obj\Debug\Controls\InfoCard.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\RegistrarPlan.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Controls\InfoCard.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Controls\MenuItem.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Controls\UserPopup.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\Home.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\ModeloP.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\ModeloQ.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\MRP.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\PedidoUnico.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\PlaneacionAgregada.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\Productos.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\RegistrarPlan.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\EditarProducto.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\Login.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\MainWindow.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\RegistraProducto.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\Registrar.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\ReporteABC.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\VentanaDevs.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\App.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción_Content.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción_MarkupCompile.cache
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción_MarkupCompile.lref
+C:\Users\agsch\source\repos\Github\obj\Debug\App.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Assets\Icons.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Controls\MenuItem.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Controls\UserPopup.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Styles\MainStyle.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Themes\DarkTheme.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Themes\TextBox.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\Home.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\ModeloP.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\ModeloQ.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\MRP.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\PedidoUnico.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\PlaneacionAgregada.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista.UserControls\Productos.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\EditarProducto.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\Login.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\MainWindow.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\RegistraProducto.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\Registrar.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\ReporteABC.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Vista\VentanaDevs.baml
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción.g.resources
+C:\Users\agsch\source\repos\Github\obj\Debug\Software_de_Producción.Properties.Resources.resources
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción.csproj.GenerateResource.cache
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción.csproj.CoreCompileInputs.cache
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción.exe
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción.pdb
+C:\Users\agsch\source\repos\Github\bin\Debug\Software de Producción.exe.config
+C:\Users\agsch\source\repos\Github\bin\Debug\Software de Producción.exe.manifest
+C:\Users\agsch\source\repos\Github\bin\Debug\Software de Producción.application
+C:\Users\agsch\source\repos\Github\bin\Debug\Software de Producción.exe
+C:\Users\agsch\source\repos\Github\bin\Debug\Software de Producción.pdb
+C:\Users\agsch\source\repos\Github\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\agsch\source\repos\Github\bin\Debug\Intersoft.Crosslight.dll
+C:\Users\agsch\source\repos\Github\bin\Debug\Intersoft.Crosslight.UI.DataVisualization.dll
+C:\Users\agsch\source\repos\Github\bin\Debug\LiteDB.dll
+C:\Users\agsch\source\repos\Github\bin\Debug\OxyPlot.dll
+C:\Users\agsch\source\repos\Github\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\agsch\source\repos\Github\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\agsch\source\repos\Github\bin\Debug\SpreadsheetLight.dll
+C:\Users\agsch\source\repos\Github\bin\Debug\System.Drawing.Common.dll
+C:\Users\agsch\source\repos\Github\bin\Debug\System.IO.Packaging.dll
+C:\Users\agsch\source\repos\Github\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\agsch\source\repos\Github\bin\Debug\LiteDB.xml
+C:\Users\agsch\source\repos\Github\bin\Debug\MaterialDesignColors.pdb
+C:\Users\agsch\source\repos\Github\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\agsch\source\repos\Github\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\agsch\source\repos\Github\bin\Debug\OxyPlot.xml
+C:\Users\agsch\source\repos\Github\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\agsch\source\repos\Github\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\agsch\source\repos\Github\bin\Debug\SpreadsheetLight.xml
+C:\Users\agsch\source\repos\Github\bin\Debug\System.IO.Packaging.xml
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción.exe.manifest
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción.application
+C:\Users\agsch\source\repos\Github\obj\Debug\Software de Producción.csproj.CopyComplete
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\Software de Producción.exe.config
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\Software de Producción.exe.manifest
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\Software de Producción.application
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\Software de Producción.exe
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\Software de Producción.pdb
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\Intersoft.Crosslight.dll
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\Intersoft.Crosslight.UI.DataVisualization.dll
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\LiteDB.dll
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\OxyPlot.dll
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\SpreadsheetLight.dll
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\System.Drawing.Common.dll
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\System.IO.Packaging.dll
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\LiteDB.xml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\MaterialDesignColors.pdb
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\OxyPlot.xml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\SpreadsheetLight.xml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\bin\Debug\System.IO.Packaging.xml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción.csproj.AssemblyReference.cache
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción.csproj.SuggestedBindingRedirects.cache
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Controls\InfoCard.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\RegistrarPlan.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Controls\InfoCard.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Controls\MenuItem.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Controls\UserPopup.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\Home.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\ModeloP.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\ModeloQ.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\MRP.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\PedidoUnico.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\PlaneacionAgregada.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\Productos.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\RegistrarPlan.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\EditarProducto.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\Login.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\MainWindow.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\RegistraProducto.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\Registrar.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\ReporteABC.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\VentanaDevs.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\App.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción_Content.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción_MarkupCompile.cache
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción_MarkupCompile.lref
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\App.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Assets\Icons.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Controls\MenuItem.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Controls\UserPopup.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Styles\MainStyle.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Themes\DarkTheme.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Themes\TextBox.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\Home.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\ModeloP.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\ModeloQ.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\MRP.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\PedidoUnico.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\PlaneacionAgregada.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista.UserControls\Productos.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\EditarProducto.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\Login.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\MainWindow.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\RegistraProducto.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\Registrar.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\ReporteABC.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Vista\VentanaDevs.baml
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción.g.resources
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software_de_Producción.Properties.Resources.resources
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción.csproj.GenerateResource.cache
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción.csproj.CoreCompileInputs.cache
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción.exe.manifest
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción.application
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción.csproj.CopyComplete
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción.exe
+C:\Users\fredd\OneDrive\Documentos\Visual Studio 2022\Github-ProdIII\obj\Debug\Software de Producción.pdb

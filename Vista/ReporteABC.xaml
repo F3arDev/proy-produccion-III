@@ -123,7 +123,7 @@
                         </StackPanel>
                         <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom">
                             <TextBlock VerticalAlignment="Center" FontSize="11.5" Margin="5" FontWeight="Light">
-                                 <Hyperlink x:Name="gmailLink" Foreground="#FF0A3E64"  Click="gmailLink_Click" >agustin.amaya.g21@email.com</Hyperlink >
+                                 <Hyperlink x:Name="gmailLink" Foreground="#FF0A3E64"  Click="gmailLink_Click" >freddenderson@gmail.com</Hyperlink >
                             </TextBlock>
                             <TextBlock Text="99 9999-9999" VerticalAlignment="Center" FontSize="11.5" Margin="5" FontWeight="Light"/>
                             <TextBlock VerticalAlignment="Center" FontSize="11.5" Margin="5" FontWeight="Light">

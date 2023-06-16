@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Software de Producción.exe.manifest" size="13545">
+    <dependentAssembly dependencyType="install" codebase="Software de Producción.exe.manifest" size="13473">
       <assemblyIdentity name="Software de Producción.exe" version="1.0.0.8" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bN4LVBYBGL3xBcFUS3d0uCXe+YkDlsdg0q7W1Ptc8mU=</dsig:DigestValue>
+        <dsig:DigestValue>vBqMusixsJNgrRAr21MSnDjU3pCAQgG4UElv+uCSrHg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

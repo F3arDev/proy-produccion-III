@@ -22,8 +22,8 @@ namespace Software_de_Producción.Vista
         public VentanaDevs()
         {
             InitializeComponent();
-            txtdev1.Text = "<Desarrolladores>";
-            txtdev2.Text = "</Desarrolladores>";
+            txtdev1.Text = "<Desarrollador>";
+            txtdev2.Text = "</Desarrollador>";
 
         }
 

@@ -330,12 +330,12 @@
                                         </LinearGradientBrush>
                                     </Border.Background>
 
-                                    <Button x:Name="btnImprimirInforme"  HorizontalAlignment="Left" VerticalAlignment="Center"      Height="39"   Width="117" RenderTransformOrigin="0.501,0.49" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#DDFFFFFF" Click="btnImprimirInforme_Click" Margin="0,0,-0.055,0.273">
+                                    <!--<Button x:Name="btnImprimirInforme" VerticalAlignment="Center"      Height="39" RenderTransformOrigin="0.501,0.49" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#DDFFFFFF" Click="btnImprimirInforme_Click" HorizontalAlignment="Left" Width="117">
                                         <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="0 0 0 0">
                                             <materialDesign:PackIcon Kind="Abc"  Height="20" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 0 0 0"/>
                                             <TextBlock Text="Reporte Modelo ABC" FontFamily="Segoe UI Light" FontSize="9" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 0"/>
                                         </StackPanel>
-                                    </Button>
+                                    </Button>-->
                                 </Border>
 
 

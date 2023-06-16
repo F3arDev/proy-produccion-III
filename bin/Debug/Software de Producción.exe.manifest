@@ -14,16 +14,16 @@
       </applicationRequestMinimum>
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
         <!--
-          Opciones del manifiesto de Control de cuentas de usuario
-          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
-          nodo requestedExecutionLevel por alguno de los siguientes.
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
 
         <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
         <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
         <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
 
-         Si desea usar la virtualización de archivos y del Registro para la
-         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
     -->
         <requestedExecutionLevel level="asInvoker" uiAccess="false" />
       </requestedPrivileges>
@@ -150,14 +150,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Software de Producción.exe" size="1193440">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Software de Producción.exe" size="1191424">
       <assemblyIdentity name="Software de Producción" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>j/LYsKUoa1opDcV6nj+YRJXbjB4wYcTx/lMMhrEV2aU=</dsig:DigestValue>
+        <dsig:DigestValue>queMJTuY0YoniPmg9DdgjF5nJsyByh+up+zIrngBqso=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -224,22 +224,22 @@
       <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Software de Producción.pdb" size="404992">
+  <file name="Software de Producción.pdb" size="396800">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xf+Hj9jV5oAJH47X/v+Cu07OICbxCk0zGe4KwchkgNs=</dsig:DigestValue>
+      <dsig:DigestValue>O39/wrjEqSyviLov4UbjZotrIzSkkXCiL1uMqm52F/o=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Source\Icono Stock MGM2.svg" size="126802">
+  <file name="Source\Icono Stock MGM2.svg" size="126850">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>5J9bB4f9PRuaEPLAfYuzAQDIj2PJRSoAumHlwmO2FBw=</dsig:DigestValue>
+      <dsig:DigestValue>A3pkD42kE2N6XFgcbJdLL3vOiGQWnHien4HRStAf02o=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
